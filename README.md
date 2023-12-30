@@ -1,4 +1,4 @@
-Source code Repository URL:https://github.com/sangeethabasavaraj/StockMarketDashboard.git
+Source code Repository URL:https://github.com/ManasaM13/stockMarketProject.git
 
 Tech Used: React-Native, native-echarts, expo, antd-mobile,react-navigation
 
